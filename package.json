@@ -1,0 +1,9 @@
+{
+  "name": "linregression",
+  "version": "0.0.0",
+  "private": true,
+
+  "dependencies": {
+    "regression": "*"
+  }
+}
